@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucianoSilva2020
+- 👋 Hi, I’m @Luciano Silva
 - 👀 I’m interested in  me tornar um programador 
 - 🌱 I’m currently learning HTML, CSS, JAVA SCRIPT, PYTHON, BANCO DE DADOS, AUTOMAÇÃO e AI, ANDROID e iOS (REACT NATIVE)
 - 💞️ I’m looking to collaborate on  BACK-END
